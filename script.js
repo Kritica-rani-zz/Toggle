@@ -5,6 +5,7 @@ mybuttn.addEventListener("click", function () {
   if (!toggle) {
     document.body.style.backgroundColor = "black";
     toggle = true;
+    //njnjnjn
     document.getElementById("para").style.color = "white";
     mybuttn.style.marginLeft = "100px";
   } else {
